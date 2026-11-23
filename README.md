@@ -8,5 +8,5 @@
 - `references/sources/`：AT/AP 来源目录、覆盖表、小节缺口表和逐章蒸馏进度。
 - `references/navigation.md`、`notation.md`、`simulation-workflows.md`：模电导航、符号约定和工程仿真补充。
 
-本技能用原创归纳与必要短例题提炼教材知识，不包含教材 PDF 或整章题解。正文明确区分 AT/AP 原题依据、自构例和工程补充；当前仍有章节未完成逐图或逐题复核，细节见 `references/sources/chapter-distillation-status.md`。
+本技能用原创归纳与必要短例题提炼教材知识，不包含教材 PDF 或整章题解。例题优先选 AT 主教材原题，AP 配套题作补充。变式须注明可核对的原题和具体改动，并按新条件复算。原书核对进度见[逐章蒸馏状态](references/sources/chapter-distillation-status.md)。
 

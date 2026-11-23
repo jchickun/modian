@@ -1,6 +1,6 @@
 # A07 配套题型：振荡、比较、波形与转换
 
-**对应知识：** [A07 知识主线](a07-waveforms-knowledge.md) · [正弦振荡深入页](a07-oscillators.md) · [比较器深入页](a07-comparators.md) · [AT 原题重构](a07-at-book-examples.md) · [AP 原题重构](a07-book-examples.md) · [工程补充与自构例](a07-waveform-conversion.md)。
+**对应知识：** [A07 知识主线](a07-waveforms-knowledge.md) · [正弦振荡深入页](a07-oscillators.md) · [比较器深入页](a07-comparators.md) · [AT 原题重构](a07-at-book-examples.md) · [AP 原题重构](a07-book-examples.md) · [波形转换与原题练习](a07-waveform-conversion.md)。
 
 ## AP 例题入口
 
@@ -115,9 +115,9 @@ AP §7.1–§7.2 的原页方法已逐页核对，详见[概要与难点页审�
 
 先把目标波形拆成可实现的中间目标，再选择比较器、积分器、绝对值/精密整流、受控增益或滤波器。每级分别核振幅、频率、直流分量、极性和带宽。V/F 题需写出输入电流、积分斜率、阈值跨度和复位时间；若 \(t_\text{reset}\) 不可忽略，周期必须包含它。
 
-## 原题与自构例的边界
+## 原题复核
 
-[AP 原题重构](a07-book-examples.md)已收录本路由所列例 7.3.1–7.3.14；例 7.3.1、7.3.3–7.3.4 的原页审计见[第一批](../sources/a07-ap-examples-1-4-audit.md)，例 7.3.6–7.3.8 见[第二批](../sources/a07-ap-examples-6-8-audit.md)，例 7.3.11–7.3.12 见[第三批](../sources/a07-ap-examples-11-12-audit.md)。本批记录 7.3.11 周期式电阻比冲突、7.3.12 平方器输出直流项及框图缺少去直流条件。原题数字不应替换成深入页的自构 MOSFET 电流环或比较器—积分器示范。实际比较器、函数发生器和 V/F 器件的共模范围、输出级、速度、误差和电源限制须查对应数据手册。
+[AP 原题重构](a07-book-examples.md)已收录本路由所列例 7.3.1–7.3.14；例 7.3.1、7.3.3–7.3.4 的原页审计见[第一批](../sources/a07-ap-examples-1-4-audit.md)，例 7.3.6–7.3.8 见[第二批](../sources/a07-ap-examples-6-8-audit.md)，例 7.3.11–7.3.12 见[第三批](../sources/a07-ap-examples-11-12-audit.md)。本批记录 7.3.11 周期式电阻比冲突、7.3.12 平方器输出直流项及框图缺少去直流条件。实际比较器、函数发生器和 V/F 器件的共模范围、输出级、速度、误差和电源限制须查对应数据手册。
 
 ## 易错点
 
