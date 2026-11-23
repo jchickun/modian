@@ -1,0 +1,20 @@
+# 模拟电子技术配套索引
+
+主教材 AT 说明原理、模型和系统取舍；辅导书 AP 对应前九章的内容概要、难点释疑、例题精解和习题解答。AP 第十章以读图习题解答为主，不虚构一章“理论课”。A00 对应 AT 导言，不强行配练习。
+
+| ID | 主线 | 练习配套 |
+|---|---|---|
+| A00 | [系统视角](a00-system-view.md) | 无对应 AP 章 |
+| A01 | [器件知识](a01-devices-knowledge.md) | [器件题型](a01-devices-practice.md) · [AT 例题 1.2.1–1.2.4、1.3.1–1.3.2、1.4.1–1.4.3](a01-at-book-examples.md) · [AP 例题 1.3.1–1.3.10](a01-book-examples.md) · [AP §1.4 自测与习题](a01-book-exercises.md) |
+| A02 | [基本放大](a02-amplifiers-knowledge.md) | [偏置、增益与摆幅](a02-amplifiers-practice.md) · [AT A02 例题重构与索引](a02-at-book-examples.md) · [AP 例 2.3.1–2.3.3、2.3.5–2.3.11](a02-book-examples.md) · [AP 例 2.3.4](a02-loaded-amplifier-example.md) · [AP §2.4 自测与习题](a02-book-exercises.md) |
+| A03 | [多级与运放](a03-opamps-knowledge.md) | [差分级与级间分析](a03-opamps-practice.md) · [AP 例 3.3.1–3.3.2 级联选型](a03-book-cascade-selection.md) · [AP 例 3.3.5 多级带载](a03-book-multistage.md) · [AP 例 3.3.6 运放读图](a03-book-opamp-example.md) · [AP 例 3.3.7–3.3.9 参数与选型](a03-book-opamp-principles-and-selection.md) · [AP 例 3.3.10–3.3.13 电流源与运放结构](a03-book-current-mirror-applications.md) · [AP §3.4.1 自测与 §3.4.2 习题 3.1–3.19](a03-book-self-test-and-exercises.md) · [AP A03 §3.4.1 自测审计](../sources/a03-ap-selftest-audit.md) · [AP P3.1–P3.4 原页审计](../sources/a03-ap-exercises-1-4-audit.md) · [AP P3.5–P3.8 原页审计](../sources/a03-ap-exercises-5-8-audit.md) · [AP P3.9–P3.11 原页审计](../sources/a03-ap-exercises-9-11-audit.md) · [AP P3.12–P3.14 原页审计](../sources/a03-ap-exercises-12-14-audit.md) · [AP P3.15–P3.17 原页审计](../sources/a03-ap-exercises-15-17-audit.md) · [AP P3.18–P3.19 原页审计](../sources/a03-ap-exercises-18-19-audit.md) · [AP A03 例 3.3.1–3.3.4 原页审计](../sources/a03-ap-examples-1-4-audit.md) · [AP A03 例 3.3.5–3.3.9 原页审计](../sources/a03-ap-examples-5-9-audit.md) · [AP A03 例 3.3.10–3.3.13 原页审计](../sources/a03-ap-examples-10-13-audit.md) |
+| A04 | [频率响应](a04-frequency-knowledge.md) | [极点、波特图与带宽](a04-frequency-practice.md) · [AP 例 4.3.4 详细推导](a04-book-frequency.md) · [AP 自测与习题 4.1–4.14](a04-book-exercises.md) |
+| A05 | [反馈知识](a05-feedback-knowledge.md) | [题型与原题](a05-feedback-practice.md) · [AT 反馈判别、组态与接线原题](a05-at-feedback-examples.md) · [概念、选择与接线原题](a05-book-feedback-selection.md) · [深度反馈与故障原题](a05-book-feedback-analysis-faults.md) · [AP 组态/稳定性原题](a05-book-feedback-examples.md) · [AP §5.4 自测与习题 5.1–5.18](a05-book-exercises.md) |
+| A06 | [运算与滤波](a06-processing-knowledge.md) | [运算电路与滤波题型](a06-processing-practice.md) · [AP 自测 T6.3 与推导](a06-self-test.md) · [AP 例题重构](a06-book-examples.md) · [AP 习题重构](a06-book-exercises.md) · [AT 章末习题自解 P6.19–P6.23](a06-at-book-exercises.md) · [AT/AP 章末题交叉表](a06-at-ap-exercise-crosswalk.md) |
+| A07 | [波形与转换](a07-waveforms-knowledge.md) | [题型路线](a07-waveforms-practice.md) · [正弦振荡深入页](a07-oscillators.md) · [比较器深入页](a07-comparators.md) · [AT 原题重构](a07-at-book-examples.md) · [AT 章末习题重构](a07-at-book-exercises.md) · [AP 原题重构](a07-book-examples.md) · [AT 页图审计 pp.311–316](../sources/a07-at-pages-311-316-audit.md) · [LC/变压器反馈](../sources/a07-at-pages-317-322-audit.md) · [晶体振荡](../sources/a07-at-pages-323-328-audit.md) · [比较器审计 pp.329–334](../sources/a07-at-pages-329-334-audit.md) · [比较器审计 pp.335–340](../sources/a07-at-pages-335-340-audit.md) · [比较器/非正弦波审计 pp.341–346](../sources/a07-at-pages-341-346-audit.md) · [三角波、锯齿波及转换审计 pp.347–352](../sources/a07-at-pages-347-352-audit.md) · [信号变换审计 pp.353–358](../sources/a07-at-pages-353-358-audit.md) · [V/F 审计 pp.359–364](../sources/a07-at-pages-359-364-audit.md) · [章末题图审计 pp.365–373](../sources/a07-at-pages-365-373-audit.md) |
+| A08 | [功率放大](a08-power-knowledge.md) | [输出与热核算](a08-power-practice.md) · [AT 例题 8.2.1–8.2.2](a08-at-book-examples.md) · [AP 例题](a08-book-examples.md) · [AP 自测与章末习题](a08-ap-book-exercises.md) |
+| A09 | [直流电源](a09-supplies-knowledge.md) | [AT 讨论题/例题复算](a09-at-examples.md) · [AP 练习路线](a09-supplies-practice.md) · [AP 原题重构](a09-book-examples.md) |
+| A10 | [读图方法](a10-schematic-knowledge.md) · [AT 四个实例](a10-book-schematics.md) | [读图与故障定位](a10-schematic-practice.md) · [AP 10.1–10.10 原题重构](a10-book-exercises.md) |
+
+更快地按关键词定位见[统一导航](../navigation.md)，辅导书例题和解题方法见[模电题型配套](guidance-methods.md)。模拟书的符号大小写和瞬时量/有效值约定见[术语与符号](../notation.md)。
+
