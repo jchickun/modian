@@ -44,24 +44,24 @@ AT 主教材的章末小结、自测与 P2.1–P2.18 原题图位于 PDF pp.139�
 
 ### 3. 图 T2.3：偏置、增益和负载
 
-**原书定位：**AP §2.4.1 自测三，PDF pp.74–75（印刷 pp.65–66）；参数图和答案见[自测题页图记录](../sources/a02-ap-self-test-pages-63-66-audit.md)。
+**原书定位：**AP §2.4.1 自测三，PDF p.74（印刷 p.65）；参数图和答案见[自测题页图记录](../sources/a02-ap-self-test-pages-63-66-audit.md)。
 
 已知 \(V_{CC}=12\,\text{V}\)、\(\beta=100\)、\(R_b'=100\,\text{k}\Omega\)、静态 \(U_{BEQ}=0.7\,\text{V}\)。
 
 - 若 \(I_{BQ}=20\,\mu\text{A}\)，偏置串联电阻总和
   \[
-  R_b'+R_w+R_B=\frac{V_{CC}-U_{BEQ}}{I_{BQ}}\approx565\,\text{k}\Omega .
+  R_b=R_b'+R_w=\frac{V_{CC}-U_{BEQ}}{I_{BQ}}\approx565\,\text{k}\Omega .
   \]
 - 若 \(U_{CEQ}=6\,\text{V}\)，
   \[
   R_C=\frac{V_{CC}-U_{CEQ}}{\beta I_{BQ}}\approx3\,\text{k}\Omega .
   \]
-- \(U_i=5\,\text{mV}_{\rm rms}\)、\(U_o=0.6\,\text{V}_{\rm rms}\) 时，\(A_u=U_o/U_i=-120\)；负号表示反相。
+- \(U_i=5\,\text{mV}_{\rm rms}\)、\(U_o=0.6\,\text{V}_{\rm rms}\) 时，\(A_u=-U_o'/U_i=-120\)；负号表示反相。
 - 若 \(R_L=R_C\) 且为电容耦合，中频交流负载减半，输出有效值约为 \(0.3\,\text{V}\)。
 
 ### 4. 图 T2.3：不失真摆幅与失真方向
 
-**原书定位：**AP §2.4.1 自测四，PDF p.75（印刷 p.66）；答案选项与结果见[自测题页图记录](../sources/a02-ap-self-test-pages-63-66-audit.md)。
+**原书定位：**AP §2.4.1 自测四，PDF p.74（印刷 p.65）；答案选项与结果见[自测题页图记录](../sources/a02-ap-self-test-pages-63-66-audit.md)。
 
 本题给 \(V_{CC}=12\,\text{V}\)、\(R_C=3\,\text{k}\Omega\)、\(U_{CEQ}=6\,\text{V}\)、\(R_L=3\,\text{k}\Omega\)。
 
