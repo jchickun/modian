@@ -38,4 +38,4 @@ AP 的整机结论为：(a) 可能，电容三点式；(b)(c) 不可能，输入
 
 ## 技能落点
 
-AP 题解汇总见[AP 章末习题重构页](../analog/a07-ap-book-exercises.md)，AT 对照和逐题分析见[AT 章末习题重构页](../analog/a07-at-book-exercises.md)。AP P7.5 与 AT P7.5 不是同题，题号对应关系见前一组[AP P7.1–P7.5 审计](a07-ap-exercises-1-5-audit.md)。
+AP 题解汇总见[AP 章末习题重构页](../analog/a07-ap-book-exercises.md)，AT 对照和逐题分析见[AT 章末习题重构页](../analog/a07-at-book-exercises.md)。AP P7.5 与 AT P7.5 对应，题号对应关系见前一组[AP P7.1–P7.5 审计](a07-ap-exercises-1-5-audit.md)。
